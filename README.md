@@ -20,5 +20,5 @@ Start the tool with `npm start`.
 **The tool will generate logs for each kind of state tilerator have for its jobs and one main log with overall status.**
 
 ## TODO
-[] Improve metric collection
-[] Move storage from log files to a proper DB
+[ ] Improve metric collection
+[ ] Move storage from log files to a proper DB
