@@ -64,3 +64,4 @@
 {"processed":863417905,"itemsPerSec":21.831746031746032,"tilegenok":24334279,"tilenodata":839083626,"processedRate":"60.309043983069486%","missing":568237860,"okTilesRate":"2.8183662695760288%","totalTiles":1431655765,"timestamp":1544875191371}
 {"processed":962442186,"itemsPerSec":21.82278481012658,"tilegenok":26073481,"tilenodata":936368705,"processedRate":"67.22581010945741%","missing":469213579,"okTilesRate":"2.709095816795379%","totalTiles":1431655765,"timestamp":1545057598335}
 {"processed":1056702638,"itemsPerSec":21.838607594936708,"tilegenok":27869655,"tilenodata":1028832983,"processedRate":"73.80982662406979%","missing":374953127,"okTilesRate":"2.6374169986694023%","totalTiles":1431655765,"timestamp":1545228533232}
+{"processed":1057790348,"itemsPerSec":21.838607594936708,"tilegenok":27879600,"tilenodata":1029910748,"processedRate":"73.8858022899101%","missing":373865417,"okTilesRate":"2.6356451496000983%","totalTiles":1431655765,"timestamp":1545230495655}
