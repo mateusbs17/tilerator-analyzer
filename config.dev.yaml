@@ -1,0 +1,8 @@
+use: maps1004
+servers:
+  maps1001:
+    url: "http://localhost:6536/jobs/jobs"
+  maps1004:
+    url: "http://localhost:6535/jobs/jobs"
+  local:
+    url: "http://localhost:16534/jobs/jobs"
